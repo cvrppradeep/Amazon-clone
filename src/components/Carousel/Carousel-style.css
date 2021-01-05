@@ -1,0 +1,17 @@
+
+    .sliderimg{
+        width: 100%;
+        /* height: 500px; */
+        object-fit: cover;
+mask-image: linear-gradient(to bottom,rgba(0,0,0,1),rgba(0,0,0,0));
+
+      }
+.alice-carousel__dots{
+    display: none !important;
+}
+.alice-carousel__prev-btn {
+    text-align: left !important;
+}
+.alice-carousel__next-btn {
+    text-align: right !important;
+}
